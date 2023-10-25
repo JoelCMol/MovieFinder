@@ -40,7 +40,7 @@ My chosen API for this project is **OMDb API**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='moviefinder.gif' title='Movie Finder' width='' alt='App Demo' />
 
 GIF created with **your chosen GIF tool**
 
