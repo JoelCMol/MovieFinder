@@ -40,7 +40,7 @@ My chosen API for this project is **OMDb API**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='movie_finder.gif' title='Movie Finder' width='' alt='App Demo' />
+<img src='movie_finder.gif' title='Movie Finder' width='250' height='450' alt='App Demo' />
 
 GIF created with **Kap**
 
