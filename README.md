@@ -40,9 +40,9 @@ My chosen API for this project is **OMDb API**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='moviefinder.gif' title='Movie Finder' width='' alt='App Demo' />
+<img src='movie_finder.gif' title='Movie Finder' width='' alt='App Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **Kap**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
